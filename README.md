@@ -1,6 +1,6 @@
 # SE20UARI036_Omniverse
 
-## in this 3D scene created in NVIDIA Omniverse, the focus is on a serene nighttime environment featuring a boat in the ocean. Here's a more detailed description:
+## in this 3D scene created in Blender, the focus is on a serene nighttime environment featuring a boat in the ocean. Here's a more detailed description:
 
 * Dark Night Sky: The scene is enveloped in the darkness of a moonless night. The sky is clear, with only a scattering of dimly lit stars barely piercing through the obsidian expanse. The absence of a visible moon intensifies the sense of mystery and seclusion.
 
